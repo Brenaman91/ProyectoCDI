@@ -1,0 +1,30 @@
+.container1 {
+
+    
+    height: 50%;
+	width:74%;
+	margin-left: 13%;
+    display: flex;
+    justify-content: center;
+	
+    align-items: center;
+	
+}
+
+html,
+body {
+    height:80%;
+}
+
+.logout {
+
+    height: 20%;
+}
+
+.p1{
+    margin: 25px;
+}
+.p2{
+    margin: 5px;
+}
+
